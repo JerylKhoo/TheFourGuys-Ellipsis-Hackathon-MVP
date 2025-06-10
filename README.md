@@ -1,6 +1,6 @@
 # Ellipsis-Hackathon-MVP
 
-This is a Minimum ViablePproduct for the Ellipsis Hackathon 2024. It is a website written in HTML, using proprietaries from OneMap and Looker Studio. 
+This is a Minimum Viable Product for the Ellipsis Hackathon 2024. It is a website written in HTML, using proprietaries from OneMap and Looker Studio. 
 
 ### TheFourGuys
 
